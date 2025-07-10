@@ -7,7 +7,7 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build": "echo \"NODE_ENV=$NODE_ENV\" && which vite && npm ls vite && vite build"
+    "build": "vite build"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.14",
