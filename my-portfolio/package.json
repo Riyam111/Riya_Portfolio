@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "echo \"NODE_ENV=$NODE_ENV\" && which vite && npm ls vite && vite build"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.14",
