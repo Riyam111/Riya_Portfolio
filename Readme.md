@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my projects, skills, and experience as a **FullStack Developer** passionate about building interactive and responsive web applications using modern technologies.
 
-🚀 **Live Demo**: [https://riyamaurya.netlify.app](https://riyam-portfolio.netlify.app/)
+🚀 **Live Demo**: [https://riyam-portfolio.netlify.app](https://riyam-portfolio.netlify.app/)
 
 ---
 
