@@ -60,7 +60,7 @@ export default {
     },
     'glow': {
           "0%, 100%": { boxShadow: "0 0 0 0 rgba(99,102,241,0.7)" },      // start/finish
-          "50%":      { boxShadow: "0 0 12px 4px rgba(99,102,241,0.9)" },   // mid‑pulse
+          "50%":      { boxShadow: "0 0 12px 4px rgba(99,102,241,0.9)" },   // mid‑pul
         },
         
       },
